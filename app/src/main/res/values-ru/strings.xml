@@ -10,15 +10,15 @@
     <string name="search_hint">Search ListenBrainz</string>
     <string name="search_card">Explore ListenBrainz data</string>
     <string name="tagger_card">Choose your Audio, Fix the tag</string>
-    <string name="news_card">ListenBrainz News Updates</string>
+    <string name="news_card">Что нового в ListenBrainz</string>
     <string name="dash_scan">Scan</string>
-    <string name="dash_collections">Collections</string>
-    <string name="dash_donate">Donate</string>
-    <string name="dash_about">About</string>
-    <string name="welcome">Welcome to ListenBrainz!</string>
+    <string name="dash_collections">Коллекции</string>
+    <string name="dash_donate">Пожертвовать</string>
+    <string name="dash_about">О нас</string>
+    <string name="welcome">Добро пожаловать в ListenBrainz!</string>
 
     <string name="welcome_loggedin">Logged in as</string>
-    <string name="search_type_artist">Artist</string>
+    <string name="search_type_artist">Артист</string>
     <string name="search_type_release">Release</string>
     <string name="search_type_label">Label</string>
     <string name="search_type_recording">Recording</string>
@@ -30,10 +30,10 @@
     <string name="search_name">ListenBrainz</string>
 
     <!-- LoginActivity -->
-    <string name="auth_title">Authentication</string>
+    <string name="auth_title">Авторизация</string>
 
     <!-- SearchResultsActivity -->
-    <string name="no_results">No results found</string>
+    <string name="no_results">Ничего не найдено</string>
 
     <!-- ReleaseActivity -->
     <string name="release_title">Release</string>
@@ -54,10 +54,10 @@
     <string name="tab_edits">TAG &amp; RATE</string>
 
     <!-- DonateActivity -->
-    <string name="donate_title">Donate</string>
+    <string name="donate_title">Пожертвовать</string>
 
     <!-- AboutActivity -->
-    <string name="about_title">About</string>
+    <string name="about_title">О нас</string>
     <string name="app_name_official">ListenBrainz Android</string>
     <string name="version_text">Version</string>
 
@@ -68,12 +68,12 @@
     <string name="action_authentication">Authentication</string>
     <string name="action_login">Log In</string>
     <string name="action_logout">Log Out</string>
-    <string name="loading">Loading...</string>
+    <string name="loading">Загрузка...</string>
     <string name="noresult">No Result Found</string>
 
     <!-- Preferences -->
-    <string name="preferences_title">Settings</string>
-    <string name="settings_search">Search</string>
+    <string name="preferences_title">Настройки</string>
+    <string name="settings_search">Поиск</string>
     <string name="settings_suggestions">Suggestions</string>
     <string name="settings_tagger">Tagger</string>
     <string name="settings_tagger_directory">Files directory</string>
@@ -85,9 +85,9 @@
     <string name="settings_user_data">User Data</string>
     <string name="settings_ratings_tags">Ratings and Tags</string>
     <string name="settings_ratings_tags_summary">Fetch ratings and tags of entities when the user is logged in.</string>
-    <string name="settings_device_theme_use_device_theme">Use device theme</string>
-    <string name="settings_device_theme_light">Light</string>
-    <string name="settings_device_theme_dark">Dark</string>
+    <string name="settings_device_theme_use_device_theme">Как в системе</string>
+    <string name="settings_device_theme_light">Светлая</string>
+    <string name="settings_device_theme_dark">Тёмная</string>
 
     <!-- Toasts -->
     <string name="toast_search_err">Add some text to search</string>
@@ -110,35 +110,35 @@
     <string name="save_button">Save changes</string>
     <string name="no_file_selected">No file selected</string>
     <string name="dash_tag">Tag</string>
-    <string name="save_checkbox">Save</string>
+    <string name="save_checkbox">Сохранить</string>
     <string name="directory_path_label">Directory Path</string>
-    <string name="select_button">Select</string>
+    <string name="select_button">Выбрать</string>
     <string name="up_button">Up</string>
-    <string name="settings_appearance">Appearance</string>
-    <string name="settings_use_language">Use English only</string>
+    <string name="settings_appearance">Внешний вид</string>
+    <string name="settings_use_language">Использовать Английский</string>
     <string name="settings_use_language_summary">This option overrides the user specified system language and
     displays all the user interface in English only.</string>
 
     <!--    loginScreen texts-->
-    <string name="logout">Logout</string>
+    <string name="logout">Выйти</string>
     <string name="logout_prompt">Hey! You are logged in already </string>
-    <string name="login">Login</string>
+    <string name="login">Войти</string>
     <string name="login_prompt">To Login, connect your ListenBrainz account with our app. You will
     be prompted to login in ListenBrainz website. Follow the instructions and return to complete
     authentication.</string>
 
     <!--    Onboarding-->
-    <string name="Onboarding_landing_page">Welcome to ListenBrainz!
-        Allow me to take you Through the basics!</string>
-    <string name="lets_go">Lets Go!</string>
-    <string name="skip">Skip</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-    <string name="finish">Finish</string>
+    <string name="Onboarding_landing_page">Добро пожаловать в ListenBrainz!
+        Позволь мне провести тебя по основам!</string>
+    <string name="lets_go">Пойдём!</string>
+    <string name="skip">Пропустить</string>
+    <string name="next">Далее</string>
+    <string name="previous">Предыдущая</string>
+    <string name="finish">Финиш</string>
 
     <!--    add to database-->
     <string name="instruction_to_add">Add if you can not find it</string>
-    <string name="artistadd">Add Artist</string>
+    <string name="artistadd">Добавить Артиста</string>
     <string name="releaseadd">Add Release</string>
     <string name="eventadd">Add Event</string>
     <string name="releasegroupadd">Add ReleaseGroup</string>
@@ -151,7 +151,7 @@
     <string name="explain_collection">Explore your ListenBrainz Collection</string>
     <string name="explain_scan">Search using Barcodes</string>
 
-    <string name="open_on_website">Open on website</string>
+    <string name="open_on_website">Открыть на сайте</string>
 
     <string name="settings_listens">Listens</string>
     <string name="settings_listenbrainz_token">ListenBrainz User Token</string>
@@ -169,11 +169,11 @@
     <string name="err_generic_toast">An error has occurred. Check the logs to know more.</string>
 
     <!-- Connect Auth -->
-    <string name="connect">Connect</string>
+    <string name="connect">Подключиться</string>
     <string name="authorize">Connect and Authorize</string>
-    <string name="connecting">Connecting</string>
-    <string name="connected">Connected</string>
-    <string name="disconnect">Disconnect</string>
+    <string name="connecting">Подключение</string>
+    <string name="connected">Подключено</string>
+    <string name="disconnect">Отключиться</string>
 
     <!-- Controls -->
     <string name="on_demand_feedback">Can play on demand? %1$b</string>
@@ -181,23 +181,23 @@
     <string name="command_feedback">"'%1$s' command successful!"</string>
     <string name="command_response">"'%1$s' command response"</string>
     <string name="connect_switch_to_local">Switch to Local Playback</string>
-    <string name="play_podcast_button_label">Play podcast</string>
-    <string name="play_album_button_label">Play album</string>
-    <string name="play_artist_button_label">Play artist</string>
-    <string name="play_playlist_button_label">Play playlist</string>
-    <string name="play_track_button_label">Play track</string>
+    <string name="play_podcast_button_label">Играть подкаст</string>
+    <string name="play_album_button_label">Играть альбом</string>
+    <string name="play_artist_button_label">Играть артиста</string>
+    <string name="play_playlist_button_label">Играть плейлист</string>
+    <string name="play_track_button_label">Играть трек</string>
     <string name="get_collection_state">Get Collection state</string>
-    <string name="save_uri">Save to Collection</string>
-    <string name="remove_uri">Remove from Collection</string>
+    <string name="save_uri">Сохранить в Коллекцию</string>
+    <string name="remove_uri">Удалить из Коллекции</string>
     <string name="browse_content">Browse Content</string>
     <string name="subscribe_to_capabilities">Get Capabilities</string>
     <string name="subscribe_to_current_track">Subscribe to playerstate</string>
     <string name="subscribe_to_player_context">Subscribe to playercontext</string>
     <string name="title_player_context">Player Context</string>
     <string name="title_current_track">Current Track</string>
-    <string name="title_image_size">Image size</string>
+    <string name="title_image_size">Размер изображения</string>
     <string name="title_image_scale_type">Scale type</string>
-    <string name="brainzplayer_notification_channel_name">BrainzPlayer Now Playing</string>
+    <string name="brainzplayer_notification_channel_name">BrainzPlayer сейчас играет</string>
     <string name="brainzplayer_notification_channel_description">Currently Playing Song Controls</string>
 
     <!-- Year in Music -->
